@@ -53,4 +53,3 @@ while True:
     else:
         ("opção invalida.")
         
-        
