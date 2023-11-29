@@ -52,4 +52,3 @@ while True:
         break
     else:
         ("opção invalida.")
-        
